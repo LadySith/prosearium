@@ -1,4 +1,4 @@
-baseURL = "http://www.prosearium.net"
+baseURL = "https://www.prosearium.net"
 languageCode = "en-us"
 title = "Prosearium.net"
 theme = "kross"
