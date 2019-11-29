@@ -65,7 +65,7 @@ googleAnalitycsID = "UA-153215157-1"
 
   [params.contact]
   enable = true
-  formAction = "#" #contact form works with formspree.io
+  formAction = "https://formspree.io/mdokaroq" #contact form works with formspree.io
 
   [params.footer]
   email = "hello@prosearium.net"
